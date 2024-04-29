@@ -1,0 +1,35 @@
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #005477;
+    width: 100%;
+
+}
+
+.logoDiv {
+    width: 200px;
+    display:flex;
+    justify-content: center;
+}
+
+.list {
+    min-width: 200px;
+    padding: 10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap : 15px;
+}
+
+.carritoContainer {
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}

@@ -1,0 +1,13 @@
+.title{
+    font-size: 50px;
+    background: -webkit-linear-gradient(#b8f70c, #5387e1);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subtitle{
+    font-size: 30px;
+    background: -webkit-linear-gradient( #5387e1, #b8f70c);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
